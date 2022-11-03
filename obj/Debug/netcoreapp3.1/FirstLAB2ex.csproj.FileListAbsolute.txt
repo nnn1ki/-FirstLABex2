@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\FirstLAB2ex\bin\Debug\netcoreapp3.1\FirstLAB2ex.exe
+C:\Users\user\source\repos\FirstLAB2ex\bin\Debug\netcoreapp3.1\FirstLAB2ex.deps.json
+C:\Users\user\source\repos\FirstLAB2ex\bin\Debug\netcoreapp3.1\FirstLAB2ex.runtimeconfig.json
+C:\Users\user\source\repos\FirstLAB2ex\bin\Debug\netcoreapp3.1\FirstLAB2ex.runtimeconfig.dev.json
+C:\Users\user\source\repos\FirstLAB2ex\bin\Debug\netcoreapp3.1\FirstLAB2ex.dll
+C:\Users\user\source\repos\FirstLAB2ex\bin\Debug\netcoreapp3.1\FirstLAB2ex.pdb
+C:\Users\user\source\repos\FirstLAB2ex\obj\Debug\netcoreapp3.1\FirstLAB2ex.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\FirstLAB2ex\obj\Debug\netcoreapp3.1\FirstLAB2ex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\FirstLAB2ex\obj\Debug\netcoreapp3.1\FirstLAB2ex.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FirstLAB2ex\obj\Debug\netcoreapp3.1\FirstLAB2ex.AssemblyInfo.cs
+C:\Users\user\source\repos\FirstLAB2ex\obj\Debug\netcoreapp3.1\FirstLAB2ex.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FirstLAB2ex\obj\Debug\netcoreapp3.1\FirstLAB2ex.dll
+C:\Users\user\source\repos\FirstLAB2ex\obj\Debug\netcoreapp3.1\FirstLAB2ex.pdb
+C:\Users\user\source\repos\FirstLAB2ex\obj\Debug\netcoreapp3.1\FirstLAB2ex.genruntimeconfig.cache
